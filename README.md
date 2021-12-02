@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayKH-Git&show_icons=true&theme=tokyonight) 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKH-Git&theme=radical" />
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision&theme=tokyonight)](https://github.com/SanjayKH-Git/Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision)
+
+
+
