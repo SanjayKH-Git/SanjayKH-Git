@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision&theme=tokyonight)](https://github.com/SanjayKH-Git/Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Food-Price-Clash&theme=tokyonight)](https://github.com/SanjayKH-Git/Food-Price-Clash)
+
+
 
 
