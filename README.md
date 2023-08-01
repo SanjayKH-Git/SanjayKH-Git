@@ -28,15 +28,15 @@
   </a>
   &emsp;
   <a href="https://www.geeksforgeeks.org/selenium-python-tutorial/" target="_blank"> 
-     <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23F7DF1E.svg?style=plastic&logo=Selenium&logoColor=black">
+     <img alt="Selenium" src="https://img.shields.io/badge/Selenium%20-%23758078.svg?style=plastic&logo=Selenium&logoColor=094d1c">
    </a>
   &emsp;
   <a href="https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy" target="_blank"> 
-     <img alt="Scrapy" src="https://img.shields.io/badge/scrapy%20-%23F7DF1E.svg?style=plastic&logo=Scrapy&logoColor=black">
+     <img alt="Scrapy" src="https://img.shields.io/badge/Scrapy%20-%234dd16e.svg?style=plastic&logo=scrapy&logoColor=black">
    </a>
   &emsp;
    <a href="https://playwright.dev/" target="_blank"> 
-     <img alt="Playwright" src="https://img.shields.io/badge/Playwright%20-%23F7DF1E.svg?style=plastic&logo=Playwright&logoColor=black">
+     <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-408f04?style=plastic&logo=playwright&logoColor=white">
    </a>
   &emsp;
    <a href="https://www.w3schools.com/xml/xpath_intro.asp" target="_blank"> 
@@ -64,19 +64,15 @@
   </a>
   &emsp; 
   <a href="https://nodejs.org/" target="_blank"> 
-   <img alt="Node JS" src="https://img.shields.io/badge/Node JS%20-%23E34F26.svg?style=plastic&logo=node.js&logoColor=white">
+   <img alt="Node JS" src="https://img.shields.io/badge/Node JS%20-%234ea94b.svg?style=plastic&logo=node.js&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/express-%23404d59.svg?style=plastic&logo=express&logoColor=white">
-  </a> 
-  &emsp;
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img alt="Django" src="https://img.shields.io/badge/Django-%234ea94b.svg?style=plastic&logo=django&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23143d0a.svg?style=plastic&logo=django&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.tutorialspoint.com/fastapi/index.htm" target="_blank">
-    <img alt="Fast API" src="https://img.shields.io/badge/Fast API-%234ea94b.svg?style=plastic&logo=fastapi&logoColor=white">
+    <img alt="Fast API" src="https://img.shields.io/badge/Fast API-%23273623.svg?style=plastic&logo=fastapi&logoColor=25b802">
   </a>
 </p>
 
@@ -90,8 +86,9 @@
   <a href="https://www.w3schools.com/python/pandas/default.asp" target="_blank">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%231572B6.svg?style=plastic&logo=pandas&logoColor=white">
   </a>
+  &emsp;
   <a href="https://matplotlib.org/" target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%234ea94b.svg?style=plastic&logo=matplotlib&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23f79e5e.svg?style=plastic&logo=mathworks&logoColor=white">
   </a>
   &emsp;
   <a href="https://scikit-learn.org/stable/" target="_blank"> 
@@ -99,15 +96,15 @@
    </a>
   &emsp; 	
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%2361DAFB.svg?style=flat-square&logo=tensorflow&logoColor=black">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23fc710d.svg?style=flat-square&logo=tensorflow&logoColor=black">
   </a>
   &emsp; 
   <a href="https://opencv.org/" target="_blank"> 
-   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-%23E34F26.svg?style=plastic&logo=opencv&logoColor=white">
+   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-350694.svg?style=plastic&logo=opencv&logoColor=d80dfc">
   </a>   
   &emsp;
   <a href="https://openpyxl.readthedocs.io/en/stable/" target="_blank">
-    <img alt="Openpyxl" src="https://img.shields.io/badge/Openpyxl-%23404d59.svg?style=plastic&logo=openpyxl&logoColor=white">
+    <img alt="Openpyxl" src="https://img.shields.io/badge/Openpyxl-%232d2440.svg?style=plastic&logo=openpyxl&logoColor=white">
   </a> 
   &emsp;
 </p>
@@ -128,20 +125,20 @@
   </a>  
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="Shell Script" src="https://img.shields.io/badge/Shell Script%20-%2300599C.svg?style=plastic&logo=shell&logoColor=white">
+    <img alt="Shell Script" src="https://img.shields.io/badge/Shell Script%20-000000.svg?style=plastic&logo=shell&logoColor=blue">
   </a> 
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Database & other Tools 
 <p align="center">	
   &emsp;
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-FE7A16?style=plastic&logo=MySQL&logoColor=white"></a>	
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-fa8611?style=plastic&logo=MySQL&logoColor=white"></a>	
   &emsp;
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-FE7A16?style=plastic&logo=PostgreSQL&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-38597a?style=plastic&logo=PostgreSQL&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-GCP-FE7A16?style=plastic&logo=googlecloud&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/-GCP-6a5f9e?style=plastic&logo=googlecloud&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google BigQuery" src="https://img.shields.io/badge/Google BigQuery-%230F9D58.svg?style=plastic&logo=bigquery&logoColor=white"></a>
+    <a href="#"><img alt="Google BigQuery" src="https://img.shields.io/badge/Google BigQuery-911fa3.svg?style=plastic&logo=bigquery&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
@@ -156,13 +153,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=290536"></a>
     &emsp;
-    <a href="#"><img alt="GitHub Codespace" src="https://img.shields.io/badge/Codespace-0078d7.svg?style=plastic&logo=github&logoColor=white">
+    <a href="#"><img alt="GitHub Codespace" src="https://img.shields.io/badge/Codespace-42413e.svg?style=plastic&logo=github&logoColor=white">
   &emsp;
-    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-0078d7.svg?style=plastic&logo=Pycharm&logoColor=white">
+    <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/Pycharm-1c912d.svg?style=plastic&logo=Pycharm&logoColor=05360c">
   &emsp;
-    <a href="#"><img alt="Jupyter Notebook / Colab" src="https://img.shields.io/badge/Jupyter Notebook / Colab-0078d7.svg?style=plastic&logo=jupyter&logoColor=white">
+    <a href="#"><img alt="Jupyter Notebook / Colab" src="https://img.shields.io/badge/Jupyter Notebook / Colab-faaf00.svg?style=plastic&logo=jupyter&logoColor=white">
   &emsp;
 
 
