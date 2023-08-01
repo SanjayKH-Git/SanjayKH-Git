@@ -145,8 +145,6 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white">
   </a>
-
-
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDE
@@ -162,15 +160,21 @@
     <a href="#"><img alt="Jupyter Notebook / Colab" src="https://img.shields.io/badge/Jupyter Notebook / Colab-faaf00.svg?style=plastic&logo=jupyter&logoColor=white">
   &emsp;
 
-
-
-
 <br>   
 
-## GitHub Stats
+</details>
 
-| ![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjayKH-Git&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKH-Git&theme=radical) |
-|:---:|:---:|
+----  
+<details><summary><h3>💻 GitHub Stats</h3></summary>
+----
+	
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayKH-Git&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sanjay" height="230px"/>
+<br/>
+  </p>
+</details>
 
 ## Favourit Repositories
 
