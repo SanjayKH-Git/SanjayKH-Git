@@ -172,7 +172,7 @@
 <p align="center">	
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Sanjay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SanjayKH-Git&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pydeep9026&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Sanjay" height="230px"/>
+	  <img src="https://github-readme-stats-hazel-pi-31.vercel.app/api/top-langs/?username=SanjayKH-Git&langs_count=12&layout=compact&theme=tokyonight" alt="Sanjay" height="230px"/>
 <br/>
   </p>
 </details>
