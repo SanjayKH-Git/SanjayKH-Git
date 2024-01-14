@@ -179,7 +179,7 @@
 
 ## Favourit Repositories
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Food-Price-Clash&theme=tokyonight)](https://github.com/SanjayKH-Git/Food-Price-Clash) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision&theme=tokyonight)](https://github.com/SanjayKH-Git/Real-Time-Pedestrian-Detection-Using-Deep-Learning-And-Computer-Vision) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=Food-Price-Clash&theme=tokyonight)](https://github.com/SanjayKH-Git/Food-Price-Clash) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SanjayKH-Git&repo=YP-tech7c-Tool&theme=tokyonight)](https://github.com/SanjayKH-Git/YP-tech7c-Tool) |
 |:---:|:---:|
 
 </div>
